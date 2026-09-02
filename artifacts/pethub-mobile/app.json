@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PetHub POS",
-    "slug": "pethub-mobile",
+    "slug": "pet-hub-shop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -61,7 +61,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "5abd7802-1f3e-4ee5-8af6-431187bda77d"
+        "projectId": "009336c7-c091-4d64-aa94-434a095c3af4"
       }
     },
     "owner": "pethubdev"
