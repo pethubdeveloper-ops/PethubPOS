@@ -15,7 +15,9 @@
       }
     },
     "production": {
-      "autoIncrement": true
+      "autoIncrement": true,
+      "corepack": true,
+      "pnpm": "10.26.1"
     }
   },
   "submit": {
